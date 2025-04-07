@@ -26,3 +26,5 @@ A simple, colorful Bash script that displays a random quote from a given text fi
 
 ```bash
 bash <path to quotify.sh>
+```
+Keep Quotes.txt file in the same folder with quotify.sh
