@@ -25,4 +25,4 @@ A simple, colorful Bash script that displays a random quote from a given text fi
 ## 🛠️ Usage
 
 ```bash
-bash project1.sh [optional_path_to_quotes.txt]
+bash <path to quotify.sh>
